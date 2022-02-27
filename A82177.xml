@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lord Generall and his Councel of Officers; shewing the grounds and reasons for the dissolution of the late Parliament.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82177</idno>
+            <idno type="STC">Wing D701</idno>
+            <idno type="STC">Thomason E692_6</idno>
+            <idno type="STC">ESTC R4424</idno>
+            <idno type="EEBO-CITATION">99872678</idno>
+            <idno type="PROQUEST">99872678</idno>
+            <idno type="VID">166497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82177)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166497)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E692[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lord Generall and his Councel of Officers; shewing the grounds and reasons for the dissolution of the late Parliament.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hen. Hills and Tho. Brewster, Printers to the Army, and are to be sold at the sign of Sir John Old-castles in Pye-Corner, and at the three Bibles at the westend [sic] of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition line 7 of title page ends: reasons.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 23.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166497:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>A DECLARATION OF THE LORD GENERALL AND HIS COUNCEL of OFFICERS; Shewing the Grounds and Reaſons for the diſſolution of the late <hi>PARLIAMENT.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Hen. Hills</hi> and <hi>Tho. Brewſter,</hi> Printers to the Army, and are to be ſold at the ſign of Sir <hi>John Old-castles</hi> in <hi>Pye-Corner,</hi> and at the three Bibles at the Weſtend of <hi>Pauls</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166497:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:166497:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <head>A <hi>Declaration of the Lord General and his Councel of Officers.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>Ur intention is not to give an ac<g ref="char:EOLhyphen"/>compt at this time, of the grounds, which firſt moved us to take up armes, and engage our lives and all that was dear unto us, in this cauſe; nor to mind in this <hi>Declaration</hi> the various diſpen<g ref="char:EOLhyphen"/>ſations through which divine Providence hath led us, or the witneſs the Lord hath born, and the many ſignall teſtimonies of acceptance which he hath given, to the ſincere endeavours of his un<g ref="char:EOLhyphen"/>worthy ſervants, whilſt they were conteſting with the many and great difficulties, as well in the wars, as other tranſactions in the three Nations; being neceſſitated, for the defence of the ſame cauſe they firſt aſſerted, to have recourſe unto extraordinary actions, the ſame being evident by former Decla<g ref="char:EOLhyphen"/>tions publiſhed on that behalf.</p>
+            <p>After it had pleaſed God not onely to reduce <hi>Ireland</hi> and give in <hi>Scotland,</hi> but ſo marvelouſly to appear for his people at <hi>Worceſter,</hi> that thoſe Na<g ref="char:EOLhyphen"/>tions were reduced to a great degree of peace, and <hi>England</hi> to perfect quiet, &amp; thereby the Parliament had opportunity to give the people the harveſt of all their labour, blood and treaſure, and to ſettle a due liberty both in reference to civil and ſpiritual things, whereunto they were obliged by their du<g ref="char:EOLhyphen"/>ty,
+<pb n="2" facs="tcp:166497:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 45 -->their ingagements, as alſo the great and won<g ref="char:EOLhyphen"/>derful things which God hath wrought for them; it was matter of much grief to the good and well affected of the Land, to obſerve the little progreſs which was made therein, who thereupon applied to the Army, expecting redreſs by their means, not<g ref="char:EOLhyphen"/>withſtanding which, the Army being unwilling to meddle with the civil Authority in matters ſo pro<g ref="char:EOLhyphen"/>perly appertaining to it, it was agreed, that his Excellency and Offices of the Army, which were Members of Parliament, ſhould be deſired to move the Parliament, to proceed vigorouſly in reforming what was amiſſe in Government, and to the ſettling of the Common-wealth upon a foundation of ju<g ref="char:EOLhyphen"/>ſtice and righteouſneſſe; which having done, we hoped that the Parliament would ſeaſonably have anſwered our expectation: But finding (to our grief) delayes therein, we renewed our deſires in an humble Petition to them, which was preſented in <hi>August</hi> laſt, and although they at that time ſig<g ref="char:EOLhyphen"/>nifying their good acceptance thereof, returned us thanks, and referred the particulars thereof, to a Committee of the Houſe, yet no conſiderable ef<g ref="char:EOLhyphen"/>fect was produced, nor any ſuch progreſſe made, as might imply their real intentions to accompliſh what was petitioned for; but on the contrary, there more and more appeared amongſt them, an aver<g ref="char:EOLhyphen"/>ſion to the things themſelves, with much bitter<g ref="char:EOLhyphen"/>neſſe and oppoſition to the people of God, and his ſpirit acting in them, which grew ſo prevalent, that thoſe perſons of Honour and integrity amongſt them, who had eminently appeared for God and the Publique good, both before and throughout this warre, were rendered of
+<pb n="5" facs="tcp:166497:3"/>
+               <!-- PDF PAGE 45 -->no further uſe in Parliament, then by meet<g ref="char:EOLhyphen"/>ing with a corrupt party to give them counte<g ref="char:EOLhyphen"/>nance to carry on their ends; and for effecting the deſire they had of perpetuating themſelves in the Supream Government. For which pur<g ref="char:EOLhyphen"/>poſe, the ſaid Party long oppoſed, and fre<g ref="char:EOLhyphen"/>quently declared themſelves againſt having a new Repreſentative: And when they ſaw themſelves neceſſitated to take that Bill into conſideration, they reſolved to make uſe of it to recruite the Houſe with Perſons of the ſame Spirit and tem<g ref="char:EOLhyphen"/>per, thereby to perpetuate their own ſitting. Which intention divers of the activeſt amongſt them did manifeſt, labouring to perſwade o<g ref="char:EOLhyphen"/>thers to a conſent therein: And the better to effect this, divers Petitions preparing from ſe<g ref="char:EOLhyphen"/>veral Counties for the continuance of this Par<g ref="char:EOLhyphen"/>liament were encouraged, if not ſet on foot by many of them.</p>
+            <p>For obviating of theſe evils; the Officers of the Army obtained ſeveral meetings, with ſome of the Parliament, to conſider what fit<g ref="char:EOLhyphen"/>ting means and remedy might be applied to pre<g ref="char:EOLhyphen"/>vent the ſame: But ſuch endeavours proving altogether ineffectuall, it became moſt evi<g ref="char:EOLhyphen"/>dent to the Army, as they doubt not it alſo is to all conſidering Perſons, that this Parliament, through the corruption of ſome, the jealouſie of others, the non-attendance and negligence of many, would never anſwer thoſe ends which God, his People, and the whole Nation ex<g ref="char:EOLhyphen"/>pected
+<pb n="6" facs="tcp:166497:4"/>
+               <!-- PDF PAGE 46 -->from them: But that this Cauſe which the Lord hath ſo greatly bleſſed, and bore witneſs to, muſt needs languiſh under their hands, and by degrees be wholly loſt, and the lives, liberties and comforts of his People delivered into their Enemies hands.</p>
+            <p>All which being ſadly and ſeriouſly con<g ref="char:EOLhyphen"/>ſidered by the honeſt People of this Nation, as well as by the Army, and wiſdom and direction being ſought from the Lord; it ſeem<g ref="char:EOLhyphen"/>ed to be a Duty incumbent upon us, who had ſeen ſo much of the power and preſence of God going along with us, to conſider of ſome more effectual means to ſecure the Cauſe which the good People of this Commonwealth had been ſo long engaged in, and to eſtabliſh righteouſneſs and peace in theſe Nations.</p>
+            <p>And after much debate it was judged ne<g ref="char:EOLhyphen"/>ceſſary and agreed upon, that the Supream Authority ſhould be by the Parliament devolved upon known Perſons, men fearing God, and of approved integrity, and the Government of the Commonwealth committed unto them for a time, as the moſt hopefull way to encou<g ref="char:EOLhyphen"/>rage and countenance all Gods People, reform the Law, and adminiſter Juſtice impartially: Hoping thereby the People might forget Monar<g ref="char:EOLhyphen"/>chy, and underſtanding their true Intereſt in the Election of Succeſſive Parliaments, may have the Government ſetled upon a true Baſis, without hazard to this glorious Cauſe, or neceſſitating
+<pb n="7" facs="tcp:166497:4"/>
+               <!-- PDF PAGE 46 -->to keep up Armies for the defence of the ſame. And being ſtil reſolved to uſe all means poſſible to avoid extraordinary courſes, we prevailed with about twenty Members of Parliament to give us a Conference, with whom we freely and plainly debated the neceſſity and juſtneſs of our Propo<g ref="char:EOLhyphen"/>ſals on that behalf; And did evidence that thoſe, and not the Act under their conſideration, would moſt probably bring forth ſomething anſwerable to that Work, the Foundation whereof God him<g ref="char:EOLhyphen"/>ſelf hath laid, and is now carrying on in the World.</p>
+            <p>The which notwithſtanding, found no accep<g ref="char:EOLhyphen"/>tance, but inſtead thereof, it was offered, that the way was to continue ſtill this preſent Par<g ref="char:EOLhyphen"/>liament, as being that from which we might rea<g ref="char:EOLhyphen"/>ſonably expect all good things. And this being vehemently iuſiſted upon, did much confirm us in our apprehenſions, that not any Love to a Repreſentative, but the making uſe thereof to recruit, and ſo perpetuate themſelves, was their aym.</p>
+            <p>They being plainly dealt with about this, and told, that neither the Nation, the Honeſt Intereſt, nor we our ſelves would be deluded by ſuch dealings; they did agree to meet again the next day in the afternoon for mutual ſa<g ref="char:EOLhyphen"/>tisfaction, it being conſented unto by the Members preſent, that endeavours ſhould be uſes, that nothing in the mean time ſhould be done in Parliament that might exclude or
+<pb n="8" facs="tcp:166497:5"/>
+               <!-- PDF PAGE 47 -->fruſtrate the Propoſals before mentioned.</p>
+            <p>Notwithſtanding this, the next morning the Parliament did make more haſte then uſual, in carrying on their ſaid Act, being helped on therein by ſome of the perſons engaged to us the night before; none of them which were then preſent, endeavouring to oppoſe the ſame: And being ready to put the main Queſtion for conſummating the ſaid Act, whereby our afore<g ref="char:EOLhyphen"/>ſaid Propoſals would have been rendred void, and the way of bringing them into a fair and full debate in Parliament obſtructed; for pre<g ref="char:EOLhyphen"/>venting whereof, and all the ſad and evil con<g ref="char:EOLhyphen"/>ſequences, which muſt upon the grounds afore<g ref="char:EOLhyphen"/>ſaid have enſued, and whereby at one blow the Intereſt of all honeſt men, and of this glo<g ref="char:EOLhyphen"/>rious Cauſe had been in danger to be laid in the duſt, and theſe Nations embroiled in new Troubles, at a time when our Enemies abroad are watching all advantages againſt us, and ſome of them actually engaged in War with us: We have been neceſſitated, though with much re<g ref="char:EOLhyphen"/>luctancy, to put an end to this Parliament; which yet we have done (we hope) out of an honeſt heart, preferring this Cauſe a<g ref="char:EOLhyphen"/>bove our Names, Lives, Families, or Intereſts, how dear ſoever; with clear intentions and real purpoſes of heart, to call to the Govern<g ref="char:EOLhyphen"/>ment, Perſons of approved fidelity and ho<g ref="char:EOLhyphen"/>neſty, believing, that as none wiſe will expect to gather Grapes of Thorns; ſo good men
+<pb n="9" facs="tcp:166497:5"/>
+               <!-- PDF PAGE 47 -->will hope, that if perſons ſo qualified be cho<g ref="char:EOLhyphen"/>ſen, the Fruits of a Juſt and a Righteous Re<g ref="char:EOLhyphen"/>formation, ſo long prayed and wiſhed for, will, by the bleſſing of God, be in due time obtain<g ref="char:EOLhyphen"/>ed, to the refreſhing of all thoſe good Hearts who have been panting after thoſe things.</p>
+            <p>Much more might have been ſaid, if it had been our deſire to juſtifie our ſelves by aſper<g ref="char:EOLhyphen"/>ſing others, and raking into the miſ-govern<g ref="char:EOLhyphen"/>ment of Affairs; but we ſhall conclude with this, That as we have been lead by neceſſity and Provi<g ref="char:EOLhyphen"/>dence, to act as we have done, even beyond and above our own thoughts and deſires: ſo we ſhall, and do, in that of this great Work which is behinde, put our ſelves wholly upon the Lord for a bleſſing; profeſſing, we look not to ſtand one day without his ſupport, much leſs to bring to paſs any of the things mentioned and deſired, without his aſſiſtance, and therefore do ſo<g ref="char:EOLhyphen"/>lemnly deſire and expect, that all men, as they would not provoke the Lord to their own deſtruction, ſhould wait for ſuch iſſue as he ſhall bring forth, and to follow their buſineſs with peaceable ſpirits; wherein we promiſe them Protection by his aſſiſtance.</p>
+            <p>And for thoſe who profeſs their fear and Love to the Name of God, that ſeeing in a great meaſure, for their ſakes, and for righ<g ref="char:EOLhyphen"/>teouſneſs ſake, we have taken our Lives in our hands to do theſe things, they would be in<g ref="char:EOLhyphen"/>ſtant
+<pb n="10" facs="tcp:166497:6"/>
+               <!-- PDF PAGE 48 -->with the Lord day and night on our be<g ref="char:EOLhyphen"/>halfs, that we may obtain grace from him, and ſeeing we have made ſo often mention of his Name, that we may not do the leaſt diſhonour thereunto: which indeed would be our confuſion, and a ſtain to the whole pro<g ref="char:EOLhyphen"/>feſſion of Godlineſs.</p>
+            <p>We beſeech them alſo to live in all humility, meekneſs, righteouſneſs and love one towards an<g ref="char:EOLhyphen"/>other, and towards all men, that ſo they may put to ſilence the ignorance of the fooliſh, who falſly accuſe them; and to know, that the late great and glorious diſpenſations wherein the Lord hath ſo wonderfully appeared in bringing forth theſe things by the travel and blood of his Children, ought to oblige them ſo to walk in the wiſdom and love of Chriſt, as may cauſe others to honour their holy pro<g ref="char:EOLhyphen"/>feſſion, becauſe they ſee Chriſt to be in them of a truth.</p>
+            <p>We do further purpoſe before it be long, more particularly to ſhew the grounds of our Proceedings, and the Reaſons of this late great Action and Change, which in this we have but hinted at.</p>
+            <p>And we do laſtly declare, That all Judges, Sheriffs, Juſtices of the Peace, Mayors, Bayliffs, Committees and Commiſſioners, and all other Civil Officers and Publick Mi<g ref="char:EOLhyphen"/>niſters
+<pb n="11" facs="tcp:166497:6"/>
+               <!-- PDF PAGE 48 -->whatſoever, within this Common<g ref="char:EOLhyphen"/>wealth, or any parts thereof, do proceed in their reſpective Places and Offices; and all Perſons whatſoever are to give obedience to them as fully as when the Parliament was ſit<g ref="char:EOLhyphen"/>ting.</p>
+            <closer>
+               <signed>Signed in the name, and by the appoint<g ref="char:EOLhyphen"/>ment of his Excellency the Lord Ge<g ref="char:EOLhyphen"/>neral, and his Councel of Officers. VVILL. MALYN, Secret.</signed>
+               <dateline>White-hall, <date>Apr. 22. 1653.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
